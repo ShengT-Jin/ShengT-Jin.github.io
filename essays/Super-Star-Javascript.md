@@ -8,7 +8,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/Js1.jpg">
 
 From the above statement, personally, if it is a boolean function, I think it would return true. I’ve never touch javascript before I took this course but after learning javascript from the first module, I’m completely into this programming language. Compare to the programming language that I use before, which is java and C, javascript has a simpler data structure that is much easier to use than Java and C, such as type of value, in java, there is byte, short, int, long, float, double, boolean and char, but in javascript, a value can be assigned to anything, you only have to care about is the accessibility of a value. Also the uses of function, regularly in java or c, we have to mention what type of answer we are returning in a function, but in javascript, a function can be return with any type of answer, which javascript have less boundary to write code. Especially, one unique data type call object, this data type makes things easier when it has lots date, we can access them easily with an object data type.
 
