@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Super Star" Javascript
+title: /"Super Star"/ Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-02
 labels:
