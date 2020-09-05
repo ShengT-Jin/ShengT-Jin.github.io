@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: The Potential of Software engineering
+title: The Potential of Software Engineering
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
-  - Software engineering
+  - Software Engineering
 ---
 
 <img class="ui medium left floated image" src="../images/se1.jpg">
