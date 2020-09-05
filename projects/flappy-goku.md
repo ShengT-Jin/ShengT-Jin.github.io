@@ -21,7 +21,7 @@ During the process of making the game, I use a lot of strategies that I learn in
 After this project, it gives me more practice on typing code in java, and I’m being able to use lots of different methods that is been provide by java to solve my problem.
 
 
-Source: <a href="https://github.com/ShengT-Jin/sudokusolver"><i class="large github icon"></i>flappy/goku</a>
+Source: <a href="https://github.com/ShengT-Jin/flappygoku"><i class="large github icon"></i>flappy/goku</a>
 
 
 
