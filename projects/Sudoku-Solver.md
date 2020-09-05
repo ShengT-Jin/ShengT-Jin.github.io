@@ -13,10 +13,10 @@ summary: A program that is built from ICS 211 for automatically solve given sudo
 
 <img class="ui medium right floated rounded image" src="../images/sudoku1.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This project is one of the interesting assignments from ICS 211 which we have to think of an algorithm to solve given sudoku. The requirement of this project is to use a recursive function that can solve given sudoku, the function should be able to solve each sudoku block by block, and we have to create a test to check if the function has no bug and is solving the sudoku.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+The hardest part of this project is to think of a recursive algorithm that can solve the sudoku, which I have to spam lots of hours to think and break down which step is needed in each line of code. After I build up a general idea of an algorithm, I have to write all the class, and function that is needed for this program, such as the sudoku only takes the hex decimal, and the size of the sudoku is 16*16.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+After this project, I feel I learn a lot about recursive algorithms, which is how is every step working during the recursive process, I believe this is a very important experience during my career because sometimes recursive function runtime then the regular way we solve the problem. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/ShengT-Jin/sudokusolver"><i class="large github icon"></i>sudoku/solver</a>
