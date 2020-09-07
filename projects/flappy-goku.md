@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fpb4.jpg
+image: images/fpb5.jpg
 title: Flappy Goku
 permalink: projects/flappygoku
 # All dates must be YYYY-MM-DD format!
