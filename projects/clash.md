@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/clash1.png
+image: images/clash3.png
 title: Clash from League of Legend
 permalink: projects/clash
 # All dates must be YYYY-MM-DD format!
