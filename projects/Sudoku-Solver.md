@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sudoku1.jpg
+image: images/sudoku2.jpg
 title: Sudoku Solver
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
