@@ -27,3 +27,8 @@ The question above is a bed example of asking questions, first, this question ca
 
 ## What I learn
 From learning to ask the smart question, it helps me to have some easy time when I faced the tough problem, the strategy of asking smart questions helps me get the hint or answer faster which people will more likely answer my problem. Not only online, this strategy could also apply in my real life, we always have a chance to work as a group, which when I ask a smart question, my team can easily understand my question and discuss the solution together, which helps increase the efficiency of work.
+
+Source: <a href="http://www.catb.org/esr/faqs/smart-questions.html"></i>How To Ask Questions The Smart Way</a>
+<a href="https://stackoverflow.com/questions/13840429/what-is-the-difference-between-client-side-and-server-side-programming"></i>Good question</a>
+<a href="https://stackoverflow.com/questions/63840927/how-do-you-turn-off-pgadmin-4"></i>Bad question</a>
+
