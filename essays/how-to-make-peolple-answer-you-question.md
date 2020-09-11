@@ -17,11 +17,11 @@ On the road to master the skill of coding, we always have to face lots of proble
 
 To create a smart question, is very important that you point out and make a clear description of the object you want to understand. Such as when you asking about a concept problem, you have to clear what you already know and what is confusing you in detail, so when people read your questions, they have a clear idea of what you asking and discuss their thought to you. A question that can easily be answered by just searching on google is not a smart question, it only proves that you didn’t even try to answer the question. Here is the example that I found in Stack Overflow:
 
-<img class="ui fluid image" src="../images/goodq1.jpg">
+<img class="ui fluid image" src="../images/goodq2.jpg">
 
 The question above is count as a smart question, in the title, he points out the question clearly, with correct grammar and logic. In the question, first, he gives his though of everything he knows about the question, and he breaks down the question to a small problem and asks the concept they contain, which when people after finish reading the question, they know what to explain, and they were able to discuss their though of the problem, and make the question very valuable from all the information they were discussing.
 
-<img class="ui fluid image" src="../images/bedq1.jpg">
+<img class="ui fluid image" src="../images/bedq2.jpg">
 
 The question above is a bed example of asking questions, first, this question can be solve easily by just searching from google, and this question isn’t related to coding which he asks the wrong subject that not suppose to appear in Stack Overflow.
 
