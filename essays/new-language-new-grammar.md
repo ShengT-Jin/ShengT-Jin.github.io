@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: New Language, New Grammar
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-10
+date: 2020-09-24
 labels:
   - Coding Standards
   - ESlint
