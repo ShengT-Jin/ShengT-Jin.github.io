@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: Dress Up the Website
+# All dates must be YYYY-MM-DD format!
+date: 2020-10-08
+labels:
+  - UI Frameworks
+  - Javascript
+  - HTML
+  - Semantic UI
+---
+
+<img class="ui medium left floated image" src="../images/ui.jpg">
+
