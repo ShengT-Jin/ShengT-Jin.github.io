@@ -11,7 +11,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui medium left floated image" src="../images/ui.png">
+<img class="ui large left floated image" src="../images/ui.png">
 
 When I first start discovering the world of HTML, I found that this is quite an easy language to learn, but compare to all the fancy beautiful websites out there, my page just like a plain document that fills with letters. Is very important to have a clear and nice website so the viewer can easily access what they want but not just black and white letters. Although we can have CSS to make our website looks better, but it takes lots of time and effort for me to create the page exactly the way that I want it to be looks like, just like when you trying to dress up somebody, you have to begin with the material that makes the cloth, and what color you want to dye it with, and how you want to sew to make the cloth wearable. As we can tell that this is a very time-consuming job for web designers, fortunately, there are lots of UI frameworks that provide for us to easily dress up our website.
 
