@@ -9,10 +9,13 @@ labels:
   - Learning
   - Design Pattern
 ---
+<img class="ui fluid image" src="../images/dp1.jpg">
 
 ## Faster, Easier, and Smarter
 
 You notice that there is always a reusable solution for the same type of problem, for example, in math, we always use height times width to calculate the area of a rectangle, in physics, we always use distance divide by time to calculate the speed. Of course, we also have a reusable solution for coding problems, and that what we called design pattern. At first, this idea was discovered by Christopher Alexandr, that a design pattern is a reusable solution to a commonly occurring problem within a given context in software design. By using and following the right design pattern into code, it saves you time and your brain cell, because by start code with random parts, the design pattern gives you a clear instruction of what you need to code in each section of the problem, and it’s very flexible that there is so many design pattern that you can choose which one works more efficiently on your coding problem.
+
+<img class="ui fluid image" src="../images/dp2.jpg">
 
 ## How it occurs in our coding
 
