@@ -21,4 +21,4 @@ This is the group project that was assigned in ICS 314 for the final project. In
 
 In this project, I learn how to use the knowledge to create a real site, and also how to work more efficiently as a group. It really helps me in improving the skill using framework and Github, which is very important for future experience.
 
-For more information, please visit our project on <a href="https://github.com/ics-study-hub/ics-study-hub"><i class="large github icon"></i>Github</a> or our project <a href="https://ics-study-hub.github.io/"></i>home page</a>.
+For more information, please visit our project on <a href="https://github.com/ics-study-hub/ics-study-hub"><i class="large github icon"></i>Github</a> or our project <a href="https://ics-study-hub.github.io/">home page</a>.
