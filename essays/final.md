@@ -9,6 +9,7 @@ labels:
   - Software Engineering
   - ICS 314
 ---
+<img class="ui medium left floated image" src="../images/final.jpg">
 
 Isn’t that cool to have the ability to build a website? With excitement, I start enrolling in the course ICS 314, which teaches software engineering. After four months of developing software engineering, I found that this not as simple as building up a website, it covers more than what I expect. There is a lot of strategy and skill been taught in the class that not just the website application, is more like what we can do and use to solve a problem, and I believe that these skills can be applied more than in software engineering field, but in the real life.
 
