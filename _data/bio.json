@@ -48,7 +48,7 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Program Languages and Frameworks",
       "level": "",
       "keywords": [
         "C",
@@ -62,7 +62,15 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Window"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Chinese"
       ]
     }
   ],
