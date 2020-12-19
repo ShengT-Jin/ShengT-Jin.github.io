@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/studyHub3.png
+image: images/studyHub4.png
 title: ICS Study Hub
 permalink: projects/studyhub
 # All dates must be YYYY-MM-DD format!
